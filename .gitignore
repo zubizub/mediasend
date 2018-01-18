@@ -18,3 +18,13 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+# Dev specific
+
+composer.phar
+/zz/vendor/
+/local/vendor/
+/local/import/
+/local/auth/
+/bitrix/*
+/local/epochta/*
